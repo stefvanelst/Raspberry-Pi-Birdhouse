@@ -13,3 +13,4 @@ The Raspberry Pi has it's own battery and solar panel for power.
 - PiJuice Solar Panel - 12 Watt
 
 ## full project can be found on the wiki page
+https://github.com/stefvanelst/Raspberry-Pi-Birdhouse/wiki
