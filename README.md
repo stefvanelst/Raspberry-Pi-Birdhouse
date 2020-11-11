@@ -5,11 +5,11 @@ The Raspberry Pi is configured as an acces point/gateway so it serves as a netwo
 You can acces the videos in the cloud when you are near the birdhouse with a device you can connect to the network of the birdhouse and by going on the ip address from the Raspberry Pi 
 The Raspberry Pi has it's own battery and solar panel for power.
 
-## Parts:
+## Parts
 - Raspberry Pi 4 model B
 - Raspberry Pi PIR sensor
 - Raspberry Pi camera module v2
 - PiJuice Portable Power Platform 
 - PiJuice Solar Panel - 12 Watt
 
-## full project can be found on the wiki page:
+## full project can be found on the wiki page
